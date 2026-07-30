@@ -51,11 +51,4 @@ This repository contains the structured SQL queries, data visualizations, execut
 
 ---
 
-## 📂 Repository Structure
-
-```text
-├── SQL_Queries/            # Structured SQL scripts for all 10 ad-hoc requests
-├── Visualization/          # Power BI report files (.pbix) & dashboard exports
-├── Presentation/           # Executive presentation deck (PPTX / PDF)
-└── README.md               # Complete project documentation
 
