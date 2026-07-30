@@ -15,7 +15,7 @@ This repository contains the structured SQL queries, data visualizations, execut
 ## 🔗 Project Deliverables & Links
 
 * 📹 **Video Presentation:** [Watch on YouTube](https://www.youtube.com/watch?v=TC_zYOd_Dts)
-* 📄 **Challenge Details:** [Codebasics Challenge Page](https://codebasics.io/challenges/codebasics-resume-project-challenge/7)
+* 📄 **LinkedIn Post:** [View Project on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7488635220577927168/)
 
 ---
 
